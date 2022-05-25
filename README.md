@@ -31,13 +31,12 @@ comparing performance of different CNNs on an image classification task.
 **Table:**
 		
 
-![image](https://user-images.githubusercontent.com/96926526/170380048-e1cd0619-26a5-4c5c-b51e-b3149d6a531e.png)
+![image](https://user-images.githubusercontent.com/96926526/170380606-283da798-b044-4674-a75d-d785302a1d7b.png)
+
 
 
 From the above table we can say that we had good accuracy  in model1 with 256 filters and 4 layers of convolutional and pooling layers giving us an accuracy of 73%.
 
-**Images:**
 
-From the below results we can say that the rose images and tulip got a close match and some of the dandelions could not been recognized as we don’t have such type of images in the training and predicted them as roses
  
-![image](https://user-images.githubusercontent.com/96926526/170379978-868c480a-c710-4275-bee6-12b7506a82f0.png)
+
